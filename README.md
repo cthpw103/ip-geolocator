@@ -2,7 +2,7 @@
 This is a slightly modified verion of [@KyxRecon](https://github.com/KyxRecon "View profile")'s IP geolocation tool. I made it for my convenience but I figured I'd put it on my basically empty GitHub.
 
 ## """""installation"""""
-#### download/use on Wingay
+#### on Wingay
 * [install Perl](http://learn.perl.org/installing/windows.html "How to install Perl on Windows")
 * open Git Shell
 * `cd` into a convenient folder
@@ -16,7 +16,7 @@ This is a slightly modified verion of [@KyxRecon](https://github.com/KyxRecon "V
 * unzip it
 * type `cd C:\Users\You\Downloads\ip-geolocator-master`
 * type `perl ip-geolocator.pl ` with a domain name or IP address after it to see if it actually fucking works
-#### download/use on GNU/Linux (the way the kool kidz do it!!!)
+#### on GNU/Linux (the way the kool kidz do it!!!)
 ##### Debian family (yes, that goes for you fags using Kali too)
 ```
 sudo apt-get update
