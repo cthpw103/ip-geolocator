@@ -11,7 +11,7 @@ This is a slightly modified verion of [@KyxRecon](https://github.com/KyxRecon "V
 * `cd` into the new `ip-geolocator` folder
 * type `perl ip-geolocator ` and paste a domain name or IP address after it to see if your ~~tireless~~ effortless work actually was worth it
 #### another way to get on Wingay
-* [install Perl]{http://learn.perl.org/installing.windows.html "How to install Perl on Windows")
+* [install Perl](http://learn.perl.org/installing.windows.html "How to install Perl on Windows")
 * [download the fucking zip](https://github.com/Shaypes/ip-geolocator/archive/master.zip "ip-geolocator-master.zip")
 * unzip it
 * type `cd C:\Users\You\Downloads\ip-geolocator-master`
