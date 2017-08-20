@@ -1,5 +1,5 @@
 #!/usr/bin/perl
-# So uh, I took KyxRecon/Lucifer's IP geolocator and added some stuff I thought was mandatory and then removed that useless owl ascii art that took up too much space, as well as adding some basic fucking features that should've already been here.
+# So uh, I took KyxRecon/Lucifer's IP geolocator and added some stuff I thought was mandatory and then removed that useless owl ascii art that took up too much space.
 # Ip Geolocation 
 #By : Lucifer
 # Original Demo : https://www.youtube.com/watch?v=0Eq3d10LQ8c
