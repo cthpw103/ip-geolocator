@@ -6,7 +6,7 @@
 * `cd` into the newly created folder
 * fucking use it
 <br>
-## Usage:
+### Usage:
 <br>
 `perl ip-geolocator.pl 12.345.6.78`
 <br><br><br>
