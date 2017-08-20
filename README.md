@@ -1,7 +1,7 @@
 # Shaypes/ip-geolocator @ GitHub.com
 This is a slightly modified verion of [@KyxRecon](https://github.com/KyxRecon "View profile")'s IP geolocation tool. I made it for my convenience but I figured I'd put it on my basically empty GitHub.
 
-## """""installation"""""
+## "installation"
 #### on Wingay
 * [install Perl](http://learn.perl.org/installing/windows.html "How to install Perl on Windows")
 * open Git Shell
