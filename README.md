@@ -6,7 +6,7 @@ This is a slightly modified verion of [@KyxRecon](https://github.com/KyxRecon "V
 * [install Perl](http://learn.perl.org/installing/windows.html "How to install Perl on Windows")
 * open Git Shell
 * `cd` into a convenient folder
-* type `git clone https://github.com/Shaypes/ip-geolocator.git`
+* type `git clone https://github.com/ThePizzaDude/ip-geolocator.git`
 * go back to normal CMD
 * `cd` into the new `ip-geolocator` folder
 * type `perl ip-geolocator ` and paste a domain name or IP address after it to see if your ~~tireless~~ effortless work actually was worth it
@@ -21,7 +21,7 @@ This is a slightly modified verion of [@KyxRecon](https://github.com/KyxRecon "V
 ```
 sudo apt-get update
 sudo apt-get install perl git
-git clone https://github.com/Shaypes/ip-geolocator.git
+git clone https://github.com/ThePizzaDude/ip-geolocator.git
 cd ip-geolocator
 perl ip-geolocator.pl 123.4.56.789
 ```
