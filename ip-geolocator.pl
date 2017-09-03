@@ -1,7 +1,7 @@
 #!/usr/bin/perl
 # So uh, I took KyxRecon/Lucifer's IP geolocator and added some stuff I thought was mandatory and then removed that useless owl ascii art that took up too much space.
 # Ip Geolocation 
-# By : Lucifer/RyxRecon, modified version by Shaypes.
+# By : Lucifer/RyxRecon, modified version by The Pizza Man.
 # Original Demo : https://www.youtube.com/watch?v=0Eq3d10LQ8c
 # New Demo : https://my.mixtape.moe/hoquyr.webm
 #
@@ -21,9 +21,9 @@ print color 'bold bright_red';
 print q{
 IP Geolocation Tool  
 Taken from tool by : KyxRecon <http://kyxhack.blogspot.mx>
-Modified by : Shaypes <shapes@cock.li>
+Modified by : The Pizza Man <pizza@rape.lol>
 https://github.com/KyxRecon/Iplocator
-https://github.com/Shaypes/ip-geolocator
+https://github.com/ThePizzaDude/ip-geolocator
 
 ------------------------------------
 };
