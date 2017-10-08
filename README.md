@@ -4,7 +4,8 @@ This is a VERY slightly modified verion of [@KyxRecon](https://github.com/KyxRec
 ## installation on Linux
 (Debian family)
 ```
-apt install perl git
+apt-get install git
+apt-get install perl
 git clone https://github.com/ThePizzaDude/ip-geolocator.git
 cd ip-geolocator
 mv ip-geolocator.pl ~/ipgeo.pl
